@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Demo
+namespace PracticeProb
 {
     internal class Add
     {
-        public static void AddTwoNumbers()
+        public  void AddTwoNumbers()
         {
             // Adding of two numbers by taking the input from user
             Console.WriteLine("Enter a First Number :");
